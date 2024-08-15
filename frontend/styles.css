@@ -55,6 +55,7 @@ footer {
 	width: 750px;
 	background: #009578;
 	border-radius: 5px;
+	margin: 0 auto; /* Center the Kanban board horizontally */
 }
 
 .kanban * {
